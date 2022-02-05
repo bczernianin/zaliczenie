@@ -1,6 +1,6 @@
 # Zaliczenie przedmiotu  Usługi i platformy deweloperskie
-##Wstep 
-##Komendy
+## Wstep 
+## Komendy
 ```bash
 az login --use-device-code
 ```
