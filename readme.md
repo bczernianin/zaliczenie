@@ -25,5 +25,5 @@ terraform apply
 ```
 
 ## Doatkowe materialy 
-- [Kurs postawy Terraform]https://www.youtube.com/watch?v=gyZdCzdkSY4
-- [Kurs Azure]https://www.youtube.com/watch?v=tDuruX7XSac&t
+- [Kurs postawy Terraform](https://www.youtube.com/watch?v=gyZdCzdkSY4)
+- [Kurs Azure](https://www.youtube.com/watch?v=tDuruX7XSac&t)
